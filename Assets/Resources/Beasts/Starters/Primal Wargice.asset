@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fed2fb392599044490ff213c640c1d9, type: 3}
+  m_Name: Primal Wargice
+  m_EditorClassIdentifier: 
+  name: Primal Wargice
+  title: The Dire Wolf
+  description: 
+  battleSprite: {fileID: 21300000, guid: f6a6369f3c0b224438f3235c754ddb57, type: 3}
+  weakElements: 09000000
+  resistElements: 0500000008000000
+  immuneElements: 00000000
+  maxHP: 90
+  maxSP: 20
+  attack: 120
+  defense: 80
+  specialAttack: 120
+  specialDefense: 80
+  speed: 90
+  captureRate: 0
+  baseExp: 100
+  learnableSkills:
+  - skillBase: {fileID: 0}
+    level: 1
+  artifactSkills: []
+  powerShifts: []

@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fed2fb392599044490ff213c640c1d9, type: 3}
+  m_Name: Wargice
+  m_EditorClassIdentifier: 
+  name: Wargice
+  title: The Dire Wolf
+  description: 
+  battleSprite: {fileID: 21300000, guid: f6a6369f3c0b224438f3235c754ddb57, type: 3}
+  weakElements: 0200000009000000
+  resistElements: 0500000008000000
+  immuneElements: 00000000
+  maxHP: 90
+  maxSP: 20
+  attack: 110
+  defense: 70
+  specialAttack: 110
+  specialDefense: 70
+  speed: 80
+  captureRate: 0
+  baseExp: 100
+  learnableSkills:
+  - skillBase: {fileID: 11400000, guid: 55e6e8db1750eed448377014007513a7, type: 2}
+    level: 1
+  - skillBase: {fileID: 11400000, guid: df77da2d66ad9ef48abd6f3f3a344e6c, type: 2}
+    level: 1
+  - skillBase: {fileID: 11400000, guid: 15dea6131ed691741a3bb4fc480785d1, type: 2}
+    level: 3
+  - skillBase: {fileID: 11400000, guid: ce0dc8169bd2ef742860d7ef03fcb503, type: 2}
+    level: 5
+  - skillBase: {fileID: 11400000, guid: 8bc0578b56ed4df47bb2caf85548c2ce, type: 2}
+    level: 7
+  - skillBase: {fileID: 11400000, guid: 3adeeac60b270d24fb75d67749023a12, type: 2}
+    level: 9
+  - skillBase: {fileID: 11400000, guid: 5333c2da385b352468ae883d355e2893, type: 2}
+    level: 11
+  - skillBase: {fileID: 11400000, guid: 8a5c1ce91a85c2447bb30fc127013d62, type: 2}
+    level: 13
+  - skillBase: {fileID: 11400000, guid: efc29cec3e4f4c44cbec7d7c8e833cbe, type: 2}
+    level: 15
+  artifactSkills: []
+  powerShifts:
+  - nextStage: {fileID: 11400000, guid: 1dea6399850c9b743a823f88e44b4747, type: 2}
+    requiredItem: {fileID: 0}
+    requiredLevel: 40

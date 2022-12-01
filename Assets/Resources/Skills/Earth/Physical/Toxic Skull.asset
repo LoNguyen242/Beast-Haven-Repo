@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6cc5e9ab415c30642ae64e78e74647ff, type: 3}
+  m_Name: Toxic Skull
+  m_EditorClassIdentifier: 
+  name: Toxic Skull
+  description: The user throws a skull covered in toxic molds at the target, dealing
+    some damage and causing poison.
+  icon: {fileID: 691968605, guid: 189186faf53e39844b583e6479a73c48, type: 3}
+  sfx: {fileID: 8300000, guid: d95a4c8a143bb994989e8416fbc4d7ed, type: 3}
+  category: 1
+  element: 6
+  target: 2
+  effect:
+    boosts: []
+    status: 0
+    chance: 0
+  secondaryEffects:
+  - boosts: []
+    status: 3
+    chance: 100
+    target: 2
+  power: 20
+  accuracy: 90
+  priority: 0
+  sP: 5
+  hP: 0
+  alwaysHit: 0
+  hasRecoil: 0

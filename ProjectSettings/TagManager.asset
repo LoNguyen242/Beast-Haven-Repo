@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Collision
+  - Long Grass
+  - Interactable
+  - Player
+  - FOV
+  - Portal
+  - Trigger
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3878628767
+    locked: 0
+  - name: Long Grass
+    uniqueID: 125419869
+    locked: 0
+  - name: Midground
+    uniqueID: 527988435
+    locked: 0
+  - name: Player
+    uniqueID: 3953971039
+    locked: 0
+  - name: Emotion
+    uniqueID: 1535651831
+    locked: 0
+  - name: Foreground
+    uniqueID: 2452729525
+    locked: 0
+  - name: Wall
+    uniqueID: 3877641525
+    locked: 0
+  - name: Battle
+    uniqueID: 864059017
+    locked: 0

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fed2fb392599044490ff213c640c1d9, type: 3}
+  m_Name: Ornaterra
+  m_EditorClassIdentifier: 
+  name: Ornaterra
+  title: The Gold Turtle
+  description: 
+  battleSprite: {fileID: 21300000, guid: f6a6369f3c0b224438f3235c754ddb57, type: 3}
+  weakElements: 040000000a000000
+  resistElements: 0300000006000000
+  immuneElements: 00000000
+  maxHP: 0
+  maxSP: 20
+  attack: 0
+  defense: 0
+  specialAttack: 0
+  specialDefense: 0
+  speed: 0
+  captureRate: 0
+  baseExp: 100
+  learnableSkills:
+  - skillBase: {fileID: 0}
+    level: 1
+  artifactSkills: []
+  powerShifts:
+  - nextStage: {fileID: 11400000, guid: c2126c30245d71d4aaacb6ff81cafeeb, type: 2}
+    requiredItem: {fileID: 11400000, guid: 12acf3e1690fbda4db0b9da7f7407fa9, type: 2}
+    requiredLevel: 40

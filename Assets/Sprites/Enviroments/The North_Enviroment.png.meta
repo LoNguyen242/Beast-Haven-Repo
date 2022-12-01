@@ -1,0 +1,1619 @@
+fileFormatVersion: 2
+guid: 97b1232fd19e81c48b8369e152bdcd32
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: The North_Enviroment_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2176
+        width: 2816
+        height: 896
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3837e9fe00b4b4daa4ea5096e3c2fc
+      internalID: -1917705913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_1
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2944
+        width: 896
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b06ec8fd9c29b4abbe09e6d2b325fc
+      internalID: -993425770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_2
+      rect:
+        serializedVersion: 2
+        x: 3330
+        y: 2818
+        width: 124
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1a9a2cf92d153469b30d70f35ef5fe
+      internalID: -1469319550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_3
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 2712
+        width: 31
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41de3e0bd4d760e4085151b52715e198
+      internalID: -856698173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_4
+      rect:
+        serializedVersion: 2
+        x: 4378
+        y: 2457
+        width: 66
+        height: 743
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a1f90c9fce0da4281de556ee58b9df
+      internalID: 726083831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_5
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2560
+        width: 128
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3669052b0a478f54da50e4236eed369f
+      internalID: 1297671992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_6
+      rect:
+        serializedVersion: 2
+        x: 3459
+        y: 2176
+        width: 508
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1cd3737328dd64697e1fef73df4cdd
+      internalID: 7794857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_7
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1794
+        width: 223
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91b433aadc07d54fbfac8ebe394bf66
+      internalID: -1998803255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_8
+      rect:
+        serializedVersion: 2
+        x: 2997
+        y: 2182
+        width: 150
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646f4e57c89e2454eb99e52dcc7f2b5a
+      internalID: -2084314472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_9
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 2182
+        width: 152
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9790c7c035012fe4696a02b481e3fe5a
+      internalID: -337192752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_10
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 2050
+        width: 56
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0174f597141aba647bbae4ec914109c0
+      internalID: -1610840709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_11
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1428
+        width: 534
+        height: 742
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed737e54d68cd0845b8f799ee0b41c56
+      internalID: 1899599452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_12
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1426
+        width: 535
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad9195a143e39c4a9a827ed52863e19
+      internalID: -1518283423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_13
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 2071
+        width: 50
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2a8e090dfb82940b0cf924bbe0cc38
+      internalID: -2064637537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_14
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 1802
+        width: 124
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b76401c7d01ebf44afb3e42838e4cfe
+      internalID: 1385305206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_15
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 2050
+        width: 364
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301584859c19fff4bb1279dd05eda310
+      internalID: -2002314599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_16
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 1936
+        width: 232
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ded1dab75be30e46b5905e59ad85807
+      internalID: 1906183643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_17
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 1940
+        width: 232
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a52400e0689079419dd5bbfeb217308
+      internalID: -627758055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_18
+      rect:
+        serializedVersion: 2
+        x: 2346
+        y: 1933
+        width: 174
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0813733ebb5bee34b9ed42ee6bf516cf
+      internalID: 462152482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_19
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1928
+        width: 256
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dfd955c5b3e2c84a99f4c04cb1783fc
+      internalID: -1235099187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_20
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1944
+        width: 100
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab59f36ec0a3a349a2fb7543154e696
+      internalID: 498897766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_21
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 1922
+        width: 364
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8dd9c7b28b73d40b99422007f56ac1
+      internalID: -1529734934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_22
+      rect:
+        serializedVersion: 2
+        x: 2329
+        y: 2024
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4f5301948f05a4d88bf6b3408168c6
+      internalID: 1919674361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_23
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 1960
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305dd6b27f4ed5e44908992d32690211
+      internalID: -461772905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_24
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 1418
+        width: 124
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d654a6445f12143b1036843820b92b
+      internalID: 594775547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_25
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 1410
+        width: 301
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8117c5b174b623240a0cd00bde2a0dd0
+      internalID: 167937882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_26
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 1411
+        width: 300
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f5ff2534fd03b4bb7dfd2cce8607d6
+      internalID: 294103752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_27
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 1672
+        width: 256
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3cbbfe7bc5b29d49adc8f559c749a5b
+      internalID: -756262251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_28
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1664
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7013ba4a9599a5e4a9da83063f8ce943
+      internalID: -1015598349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_29
+      rect:
+        serializedVersion: 2
+        x: 2308
+        y: 1665
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cbe2f66cd123649bf852c9e63922a4
+      internalID: 1456037881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_30
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 1602
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ec80e5f7fa89a479e21f13755760ca
+      internalID: 689833335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_31
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 900
+        width: 380
+        height: 758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d363042998fad45b7d38f22e15e566
+      internalID: -1688935937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_32
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 900
+        width: 380
+        height: 759
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4adc27f144edd3742807fd5653f08c8b
+      internalID: 1119528735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_33
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1321
+        width: 54
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee92f7ff4dcc1341952197311db2293
+      internalID: 1427108982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_34
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1297
+        width: 125
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b7d52d4031ae94d870ea8f73a914d5
+      internalID: -819019777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_35
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1294
+        width: 124
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1999b125d6c594f49a2b60a25514515d
+      internalID: 1344021584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_36
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1287
+        width: 159
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5dac4f32001de429450071d32238be
+      internalID: 961701349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_37
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1314
+        width: 70
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9236c569ecb014396d12d9d89f141a
+      internalID: 1889796421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_38
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1295
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5179692e8297ee8429c5bcab92d804dc
+      internalID: -452554334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_39
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1298
+        width: 51
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9bc72254e86c7468aad12af9ef6049
+      internalID: -1988069939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_40
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 1287
+        width: 159
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0e4669878d80b4f9f1f49394108b15
+      internalID: -62512164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_41
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 1303
+        width: 110
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8935f149479922418f19a3a489907e8
+      internalID: 848933225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_42
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 897
+        width: 300
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790d6c5f29273c0448b085743cbc1a8f
+      internalID: -987761490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_43
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 896
+        width: 301
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef379ff0e0f2a842803c281c1fac228
+      internalID: -813430498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_44
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1194
+        width: 54
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f1d39d6fdbd6544a42e5839007ee5b
+      internalID: -160280703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_45
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1173
+        width: 123
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3efe4b211279b4fb668cdbe5da33fa
+      internalID: -474571860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_46
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1187
+        width: 67
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ff9e7d00fd8ac43a46a6ab65db29b0
+      internalID: -347722826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_47
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1160
+        width: 159
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb2d42de81c1f04faca661bb7413302
+      internalID: -1394584527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_48
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1178
+        width: 57
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0350cb7d36767845b5ee70bcf632fb6
+      internalID: 474620686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_49
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1163
+        width: 104
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a11e4bd6083ff948bf3d074a1573fe4
+      internalID: 1624703979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_50
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1180
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0356f084f782b75439271e26aa06de70
+      internalID: -680018374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_51
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1165
+        width: 205
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c3cbd7bebfdb84fba3abc34c6ded6c
+      internalID: -1782283406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_52
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 1171
+        width: 115
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659ea3018cd56584b816acfbe71aea81
+      internalID: 949976047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_53
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1026
+        width: 56
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e13d7b4b3497a948b9ee0a28fd92e64
+      internalID: -2098096614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_54
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1045
+        width: 123
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ecd5cdccf8972438bd41d9b05ce420
+      internalID: 722209887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_55
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1059
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26584793fcbf37b47a688d14871f499e
+      internalID: 2027621094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_56
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 903
+        width: 239
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d135dc39b9007cd4c9a84a7785e738fc
+      internalID: 1024121974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_57
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 902
+        width: 239
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f8a4b9a92f5a448b32f2f803ab6c3f
+      internalID: 1429810570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_58
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 898
+        width: 204
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8153561bf44eda46aab871f4b18c430
+      internalID: 43964307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_59
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 900
+        width: 204
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f2eac8cbb3c1449abd76eee73ee105
+      internalID: -1979356160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_60
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 903
+        width: 111
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433b15e6f05021044a314c6c186fd297
+      internalID: 418566414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_61
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 937
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f262598d0a7b8e4458fc8078845d7044
+      internalID: -517913678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_62
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 937
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5fc4a07de7c7ee45b599fd2a0ac8fce
+      internalID: 679027332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_63
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 133
+        width: 380
+        height: 759
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fdaa173b5571d4439bf7ca3a17236a4
+      internalID: 771948880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_64
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 134
+        width: 380
+        height: 758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e8978f0dbeedd48820c9a85eed17de
+      internalID: -631781900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_65
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 128
+        width: 862
+        height: 762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3832b377c4d68c4a810b27940e1e44e
+      internalID: 1628129029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_66
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 130
+        width: 860
+        height: 761
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901c0bed57683894a9f286e678eb9f9e
+      internalID: -1743888427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The North_Enviroment_67
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 129
+        width: 384
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd73b2d71d603e42b37d3ab8bcaa139
+      internalID: -949856884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      The North_Enviroment_34: -819019777
+      The North_Enviroment_62: 679027332
+      The North_Enviroment_20: 498897766
+      The North_Enviroment_60: 418566414
+      The North_Enviroment_13: -2064637537
+      The North_Enviroment_11: 1899599452
+      The North_Enviroment_29: 1456037881
+      The North_Enviroment_33: 1427108982
+      The North_Enviroment_63: 771948880
+      The North_Enviroment_6: 7794857
+      The North_Enviroment_24: 594775547
+      The North_Enviroment_58: 43964307
+      The North_Enviroment_16: 1906183643
+      The North_Enviroment_14: 1385305206
+      The North_Enviroment_42: -987761490
+      The North_Enviroment_46: -347722826
+      The North_Enviroment_43: -813430498
+      The North_Enviroment_26: 294103752
+      The North_Enviroment_41: 848933225
+      The North_Enviroment_54: 722209887
+      The North_Enviroment_4: 726083831
+      The North_Enviroment_23: -461772905
+      The North_Enviroment_31: -1688935937
+      The North_Enviroment_10: -1610840709
+      The North_Enviroment_61: -517913678
+      The North_Enviroment_12: -1518283423
+      The North_Enviroment_45: -474571860
+      The North_Enviroment_67: -949856884
+      The North_Enviroment_17: -627758055
+      The North_Enviroment_2: -1469319550
+      The North_Enviroment_19: -1235099187
+      The North_Enviroment_7: -1998803255
+      The North_Enviroment_59: -1979356160
+      The North_Enviroment_51: -1782283406
+      The North_Enviroment_8: -2084314472
+      The North_Enviroment_3: -856698173
+      The North_Enviroment_18: 462152482
+      The North_Enviroment_28: -1015598349
+      The North_Enviroment_53: -2098096614
+      The North_Enviroment_21: -1529734934
+      The North_Enviroment_49: 1624703979
+      The North_Enviroment_66: -1743888427
+      The North_Enviroment_9: -337192752
+      The North_Enviroment_56: 1024121974
+      The North_Enviroment_36: 961701349
+      The North_Enviroment_39: -1988069939
+      The North_Enviroment_48: 474620686
+      The North_Enviroment_52: 949976047
+      The North_Enviroment_57: 1429810570
+      The North_Enviroment_64: -631781900
+      The North_Enviroment_30: 689833335
+      The North_Enviroment_38: -452554334
+      The North_Enviroment_32: 1119528735
+      The North_Enviroment_1: -993425770
+      The North_Enviroment_15: -2002314599
+      The North_Enviroment_35: 1344021584
+      The North_Enviroment_25: 167937882
+      The North_Enviroment_37: 1889796421
+      The North_Enviroment_50: -680018374
+      The North_Enviroment_55: 2027621094
+      The North_Enviroment_65: 1628129029
+      The North_Enviroment_27: -756262251
+      The North_Enviroment_5: 1297671992
+      The North_Enviroment_44: -160280703
+      The North_Enviroment_22: 1919674361
+      The North_Enviroment_40: -62512164
+      The North_Enviroment_47: -1394584527
+      The North_Enviroment_0: -1917705913
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fed2fb392599044490ff213c640c1d9, type: 3}
+  m_Name: Burly
+  m_EditorClassIdentifier: 
+  name: Burly
+  title: 
+  description: 
+  battleSprite: {fileID: 21300000, guid: 23fb2292cf1c065408fe38e875b5b5f1, type: 3}
+  weakElements: 02000000
+  resistElements: 04000000
+  immuneElements: 00000000
+  maxHP: 70
+  maxSP: 20
+  attack: 80
+  defense: 100
+  specialAttack: 60
+  specialDefense: 90
+  speed: 85
+  captureRate: 100
+  baseExp: 100
+  learnableSkills:
+  - skillBase: {fileID: 11400000, guid: f6fb2e9d3eec1ce45b42d74fe2823b29, type: 2}
+    level: 1
+  - skillBase: {fileID: 11400000, guid: 0302c438b10a6c544820466b2b568b44, type: 2}
+    level: 1
+  - skillBase: {fileID: 11400000, guid: 3ffe82c166f93064ab3e58b21faee866, type: 2}
+    level: 3
+  - skillBase: {fileID: 11400000, guid: 15150dc5cccd7374b9107f3636c91b30, type: 2}
+    level: 5
+  - skillBase: {fileID: 11400000, guid: eeb6f02bb32d69f44be1a990beddff65, type: 2}
+    level: 7
+  - skillBase: {fileID: 11400000, guid: f912a8a4547c82b4195324c5212433c7, type: 2}
+    level: 9
+  - skillBase: {fileID: 11400000, guid: 499cef6060b1cad47b1105e9190ae456, type: 2}
+    level: 11
+  artifactSkills: []
+  powerShifts: []

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6cc5e9ab415c30642ae64e78e74647ff, type: 3}
+  m_Name: Bubble Wrap
+  m_EditorClassIdentifier: 
+  name: Bubble Wrap
+  description: The user wraps themselves in a bubble, increasing their Defense and
+    Speed by 1 stage.
+  icon: {fileID: 1583589262, guid: 189186faf53e39844b583e6479a73c48, type: 3}
+  sfx: {fileID: 8300000, guid: d95a4c8a143bb994989e8416fbc4d7ed, type: 3}
+  category: 3
+  element: 3
+  target: 0
+  effect:
+    boosts:
+    - stat: 1
+      boost: 1
+    - stat: 4
+      boost: 1
+    status: 0
+  secondaryEffects: []
+  power: 0
+  accuracy: 100
+  priority: 0
+  sP: 3
+  hP: 0
+  alwaysHit: 0
+  hasRecoil: 0

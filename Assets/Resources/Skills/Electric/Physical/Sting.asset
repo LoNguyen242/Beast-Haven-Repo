@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6cc5e9ab415c30642ae64e78e74647ff, type: 3}
+  m_Name: Sting
+  m_EditorClassIdentifier: 
+  name: Sting
+  description: Tentacles electrocute the target, with a chance to cause shock.
+  icon: {fileID: 26028200, guid: 189186faf53e39844b583e6479a73c48, type: 3}
+  sfx: {fileID: 8300000, guid: d95a4c8a143bb994989e8416fbc4d7ed, type: 3}
+  category: 1
+  element: 7
+  target: 2
+  effect:
+    boosts: []
+    status: 0
+    chance: 0
+  secondaryEffects:
+  - boosts: []
+    status: 4
+    chance: 25
+    target: 2
+  power: 60
+  accuracy: 100
+  priority: 0
+  sP: 4
+  hP: 0
+  alwaysHit: 0
+  hasRecoil: 0
